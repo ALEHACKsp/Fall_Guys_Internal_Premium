@@ -67,27 +67,27 @@ All functions are possible for any configuration
   Menu Key: INSERT
   
 - GENERAL:
-  - HOME Â» Hide Corner Text
-  - DELETE Â» Panic Key (instantly closes game)
-  - END Â» Unhook Cheat (disable cheat, keep game alive)
+  - HOME » Hide Corner Text
+  - DELETE » Panic Key (instantly closes game)
+  - END » Unhook Cheat (disable cheat, keep game alive)
   - Disable Safe Cheat Values
 - VISUALS:
-  - F5 Â» Real Doors (Door Rush)
-  - F6 Â» Real Path (Tip Toe)
-  - F7 Â» Non-Jinxed Players
-  - F8 Â» All Platforms Visible (Fall Match / Fruits Match)
-  - F9 Â» Player with Tail (Final)
+  - F5 » Real Doors (Door Rush)
+  - F6 » Real Path (Tip Toe)
+  - F7 » Non-Jinxed Players
+  - F8 » All Platforms Visible (Fall Match / Fruits Match)
+  - F9 » Player with Tail (Final)
 - MOVEMENT:
-  - F1 Â» Fly Mode:
+  - F1 » Fly Mode:
     - Flying Speed
-  - F2 Â» Speed Hack:
+  - F2 » Speed Hack:
     - Movement Speed (Default: 9.5)
 	- Movement Speed when Carrying Item (Default: 8)
 	- Movement Speed when Grabbing (Default: 5)
-  - F3 Â» Dive Boost:
+  - F3 » Dive Boost:
     - Normal Dive Boost (Default: 16.5)
 	- Air Dive Boost (Default: 7)
-  - F4 Â» Gravitation:
+  - F4 » Gravitation:
     - Gravity Scale (Default: 1.5)
 - COLLISIONS:
   - Disable Stuns/Knockdowns
@@ -95,12 +95,12 @@ All functions are possible for any configuration
   - Disable Player to Player Collisions
   - Disable Falling Down
 - CARRYING GRABBABLE ITEMS:
-  - F10 Â» Item Drop Force:
+  - F10 » Item Drop Force:
     - Normal Item Drop (Default: 50)
     - Dive Item Drop (Default: 90)
-  - F11 Â» Equal Tussle Chances When Grabbed
+  - F11 » Equal Tussle Chances When Grabbed
 - GRABS:
-  - F12 Â» Super Grab Feature
+  - F12 » Super Grab Feature
   - Grab Detect Radius (Default: 6)
   - Grab Check Distance (Default: 2)
   - Grab Max Force (Default: 0.6)
