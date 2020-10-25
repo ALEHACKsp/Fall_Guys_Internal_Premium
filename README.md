@@ -1,6 +1,6 @@
 ![logo](https://i.imgur.com/gDbunES.png)  
 Fall Guys - Advanced Internal Cheat - Premium Version - 15.09.2020  
-[![Discord](https://discordapp.com/api/guilds/370909694056726528/widget.png?style=shield)](https://discord.gg/jqbq85J) 
+[![Discord](https://img.shields.io/discord/748288505507217428.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/AEfuvwT)  
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/xtejk)
   
   
@@ -67,27 +67,27 @@ All functions are possible for any configuration
   Menu Key: INSERT
   
 - GENERAL:
-  - HOME » Hide Corner Text
-  - DELETE » Panic Key (instantly closes game)
-  - END » Unhook Cheat (disable cheat, keep game alive)
+  - HOME Â» Hide Corner Text
+  - DELETE Â» Panic Key (instantly closes game)
+  - END Â» Unhook Cheat (disable cheat, keep game alive)
   - Disable Safe Cheat Values
 - VISUALS:
-  - F5 » Real Doors (Door Rush)
-  - F6 » Real Path (Tip Toe)
-  - F7 » Non-Jinxed Players
-  - F8 » All Platforms Visible (Fall Match / Fruits Match)
-  - F9 » Player with Tail (Final)
+  - F5 Â» Real Doors (Door Rush)
+  - F6 Â» Real Path (Tip Toe)
+  - F7 Â» Non-Jinxed Players
+  - F8 Â» All Platforms Visible (Fall Match / Fruits Match)
+  - F9 Â» Player with Tail (Final)
 - MOVEMENT:
-  - F1 » Fly Mode:
+  - F1 Â» Fly Mode:
     - Flying Speed
-  - F2 » Speed Hack:
+  - F2 Â» Speed Hack:
     - Movement Speed (Default: 9.5)
 	- Movement Speed when Carrying Item (Default: 8)
 	- Movement Speed when Grabbing (Default: 5)
-  - F3 » Dive Boost:
+  - F3 Â» Dive Boost:
     - Normal Dive Boost (Default: 16.5)
 	- Air Dive Boost (Default: 7)
-  - F4 » Gravitation:
+  - F4 Â» Gravitation:
     - Gravity Scale (Default: 1.5)
 - COLLISIONS:
   - Disable Stuns/Knockdowns
@@ -95,12 +95,12 @@ All functions are possible for any configuration
   - Disable Player to Player Collisions
   - Disable Falling Down
 - CARRYING GRABBABLE ITEMS:
-  - F10 » Item Drop Force:
+  - F10 Â» Item Drop Force:
     - Normal Item Drop (Default: 50)
     - Dive Item Drop (Default: 90)
-  - F11 » Equal Tussle Chances When Grabbed
+  - F11 Â» Equal Tussle Chances When Grabbed
 - GRABS:
-  - F12 » Super Grab Feature
+  - F12 Â» Super Grab Feature
   - Grab Detect Radius (Default: 6)
   - Grab Check Distance (Default: 2)
   - Grab Max Force (Default: 0.6)
