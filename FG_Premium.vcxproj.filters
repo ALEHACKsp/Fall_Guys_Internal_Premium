@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{ff25261f-f6cc-46cc-9332-40ef84985223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat">
+      <UniqueIdentifier>{c54f5f75-b55c-411f-9660-adb4f61348e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\imgui">
+      <UniqueIdentifier>{d76c3965-6f02-4046-90b7-364c31c724f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\drawing">
+      <UniqueIdentifier>{b3fa3606-072d-4fa3-8b1e-18e6268a17c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\others">
+      <UniqueIdentifier>{90bb89fd-ed1b-4142-9ed0-ca7b949f60c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\memory">
+      <UniqueIdentifier>{0fc2d730-74a8-4b67-b004-57085ca99165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat\config">
+      <UniqueIdentifier>{938addf9-4fda-4664-9ec0-3cf810370960}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FG_Premium\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui_extend.h">
+      <Filter>cheat\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui_impl_dx11.h">
+      <Filter>cheat\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\imgui_impl_win32.h">
+      <Filter>cheat\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\directx_helper.hpp">
+      <Filter>cheat\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\draw_manager.h">
+      <Filter>cheat\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\fnv_hash.hpp">
+      <Filter>cheat\others</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\il2cpp.h">
+      <Filter>cheat\others</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\unity_sdk.h">
+      <Filter>cheat\others</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\vector.h">
+      <Filter>cheat\others</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\VMTHook.h">
+      <Filter>cheat\others</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\memory.h">
+      <Filter>cheat\memory</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\offsets.h">
+      <Filter>cheat\memory</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\console.h">
+      <Filter>cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\menu.h">
+      <Filter>cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\render.h">
+      <Filter>cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\values.h">
+      <Filter>cheat\memory</Filter>
+    </ClInclude>
+    <ClInclude Include="FG_Premium\keys.h">
+      <Filter>cheat\config</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FG_Premium\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\imgui_extend.cpp">
+      <Filter>cheat\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\imgui_impl_dx11.cpp">
+      <Filter>cheat\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\imgui_impl_win32.cpp">
+      <Filter>cheat\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\directx_helper.cpp">
+      <Filter>cheat\drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\draw_manager.cpp">
+      <Filter>cheat\drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\vector.cpp">
+      <Filter>cheat\others</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\memory.cpp">
+      <Filter>cheat\memory</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\console.cpp">
+      <Filter>cheat</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\dllmain.cpp">
+      <Filter>cheat</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\menu.cpp">
+      <Filter>cheat</Filter>
+    </ClCompile>
+    <ClCompile Include="FG_Premium\render.cpp">
+      <Filter>cheat</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
